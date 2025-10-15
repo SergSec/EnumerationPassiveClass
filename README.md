@@ -9,4 +9,4 @@ El script consulta fuentes públicas como **[crt.sh](https://crt.sh)* para ident
 Después, resuelve cada subdominio encontrado para obtener sus direcciones IP y guarda toda la información en un archivo JSON.
 
 Ejecución:
-python enumeracion_pasiva.py tarjet.com
+python enumeracion.py tarjet.com
